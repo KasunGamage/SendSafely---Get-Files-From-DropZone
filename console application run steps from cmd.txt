@@ -1,0 +1,23 @@
+your dropzone => https://test.sendsafely.com/dropzone/Test_User <= something like this
+
+below commands are just for display.
+
+To create a key
+---------------
+https://test.sendsafely.com lK8ojbasnd65R7af0apxxvlw XZx7ZL65165Rgvn92z2GEMQ CREATE-KEY
+
+
+To find packages which recieved to the dropzone account (Test_User@Test_User.org.au.)
+----------------
+https://test.sendsafely.com lK8EHV7asdaf0apxxvlw XZx7ZLlpFKRgv7282GEMQ LIST-PACKAGES
+
+
+Download the files => specify the package id
+------------------
+https://test.sendsafely.com lKHV7E7af0a123123pxxvlw XZx7Z4325Rgvn92z2GEMQ GET-FILES D:\SendSafety\sample\b8152sss-8745-587-a815-243868h38hf39.key b8152fb7-6105-8743-a815-24386shs1bf39 E78G-3841 
+
+
+
+
+
+

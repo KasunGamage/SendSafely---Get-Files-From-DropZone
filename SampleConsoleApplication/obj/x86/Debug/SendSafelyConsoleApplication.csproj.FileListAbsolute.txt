@@ -1,0 +1,11 @@
+E:\github\test3\SendSafely-Get-Files-From-DropZone\SampleConsoleApplication\bin\Debug\SendSafelyConsoleApplication.exe.config
+E:\github\test3\SendSafely-Get-Files-From-DropZone\SampleConsoleApplication\bin\Debug\SendSafelyConsoleApplication.exe
+E:\github\test3\SendSafely-Get-Files-From-DropZone\SampleConsoleApplication\bin\Debug\SendSafelyConsoleApplication.pdb
+E:\github\test3\SendSafely-Get-Files-From-DropZone\SampleConsoleApplication\bin\Debug\BouncyCastle.Crypto.dll
+E:\github\test3\SendSafely-Get-Files-From-DropZone\SampleConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+E:\github\test3\SendSafely-Get-Files-From-DropZone\SampleConsoleApplication\bin\Debug\SendsafelyAPI.dll
+E:\github\test3\SendSafely-Get-Files-From-DropZone\SampleConsoleApplication\obj\x86\Debug\SendSafelyConsoleApplication.csprojAssemblyReference.cache
+E:\github\test3\SendSafely-Get-Files-From-DropZone\SampleConsoleApplication\obj\x86\Debug\SendSafelyConsoleApplication.csproj.CoreCompileInputs.cache
+E:\github\test3\SendSafely-Get-Files-From-DropZone\SampleConsoleApplication\obj\x86\Debug\SendSafelyConsoleApplication.csproj.CopyComplete
+E:\github\test3\SendSafely-Get-Files-From-DropZone\SampleConsoleApplication\obj\x86\Debug\SendSafelyConsoleApplication.exe
+E:\github\test3\SendSafely-Get-Files-From-DropZone\SampleConsoleApplication\obj\x86\Debug\SendSafelyConsoleApplication.pdb
