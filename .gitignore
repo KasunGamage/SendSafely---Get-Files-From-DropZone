@@ -2,9 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/bin/Debug
-/lib
-/obj/x86
-/Properties
-/b8152fb7-6105-41f1-a815-243868b1bf39.key
+/SampleConsoleApplication/.vs/SendSafelyConsoleApplication/v15/Server/sqlite3/db.lock
